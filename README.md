@@ -7,4 +7,4 @@ Also prints data into the console if you want to plot it yourself
 
 ## Notes
 - You'll have to [create your own bot](https://developer.twitter.com/) and set up the keys in the code
-- Twitter is limiting to ~15 requests per 15 minutes, each processing 200 followers only, so this can take a while for huge accounts. Passs `users_limit` parameter to limit processed users count
+- Twitter is limiting to ~15 requests per 15 minutes, each processing 200 followers only, so this can take a while for huge accounts. Pass `users_limit` parameter to limit processed users count.
