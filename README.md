@@ -3,6 +3,7 @@ See how many followers someones followers have, just in case you are weird like 
 
 ## Example Output
 ![Example Output](img/example.png?raw=true "Example Output")
+
 Also prints data into the console if you want to plot it yourself
 
 ## Notes
